@@ -57,6 +57,8 @@ body {
         -ms-flex-direction: column;
             flex-direction: column;
     text-align: center;
+    font-size: small;
+    padding-top: 10px;
   }
   .reverse {
     display: -webkit-box;
